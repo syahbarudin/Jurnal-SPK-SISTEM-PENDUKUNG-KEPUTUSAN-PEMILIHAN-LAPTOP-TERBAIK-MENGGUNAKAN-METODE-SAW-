@@ -7,7 +7,8 @@ Muhammad Azwa Dipani
 Frans Putra Sinaga
 Syahabrudin Abdillah
 
-Progress tahap pembahasan
+Progress menunggu review
 
-![gambar](https://github.com/user-attachments/assets/3134ee54-e1d2-4f22-9a0a-78c4aebcd067)
+![Gambar WhatsApp 2024-11-15 pukul 10 14 00_8cc14f08](https://github.com/user-attachments/assets/27e0717e-62e1-427a-abc6-e75031311ac2)
+
 
