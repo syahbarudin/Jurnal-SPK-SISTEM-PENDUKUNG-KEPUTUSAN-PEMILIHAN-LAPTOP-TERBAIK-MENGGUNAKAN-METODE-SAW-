@@ -2,10 +2,10 @@
 
 Kelompok 6
 
-Hilmy Syaddad Ramzy
-Muhammad Azwa Dipani
-Frans Putra Sinaga
-Syahabrudin Abdillah
+Hilmy Syaddad Ramzy <br>
+Muhammad Azwa Dipani <br>
+Frans Putra Sinaga <br>
+Syahabrudin Abdillah <br>
 
 Progress menunggu review
 
